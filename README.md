@@ -44,73 +44,6 @@
 </td></tr>
 
 
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=DrSmoothl&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=DrSmoothl&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrSmoothl&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                659 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌆 Daytime                778 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌃 Evening                610 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-🌙 Night                  467 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Wednesday                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Friday                   601 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Saturday                 214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Sunday                   417 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               5 hrs 11 mins       ███████████████░░░░░░░░░░   61.46 % 
-JSON                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/05/2025 00:44:22 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
 
 
@@ -175,13 +108,6 @@ Mac                      8 hrs 27 mins       ███████████�
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrSmoothl&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DrSmoothl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
 
 </div>
 
