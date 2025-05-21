@@ -15,20 +15,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://twitter.com/DrSmoothl/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@DrSmoothl"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=DrSmoothl&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@DrSmoothl"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
-  </div>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -53,6 +39,7 @@
 <p>&emsp;&emsp;同时我也热爱者二次元。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;愿你与心中重要之人重逢。</p>
+<p>&emsp;&emsp;The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it, and like any great code, it will run beautifully when it's meant to.</p>
 
 </td></tr>
 
@@ -284,42 +271,9 @@ Mac                      8 hrs 27 mins       ███████████�
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/5a353f1f0b4798afc14f4f3427e1762a53ad92f1.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/assets/images/icon.png" /></div>
