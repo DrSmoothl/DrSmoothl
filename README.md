@@ -36,7 +36,7 @@
 
 <p>&emsp;&emsp;嗨，你好，我是墨梓柒。喜欢编程，摄影。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;同时我也热爱者二次元。</p>
+<p>&emsp;&emsp;同时我也热爱着二次元。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;愿你与心中重要之人重逢。</p>
 <p>&emsp;&emsp;The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it, and like any great code, it will run beautifully when it's meant to.</p>
