@@ -71,8 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrSmoothl&theme=dark&hide_border=true" />
 </picture>
 
-<!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/DrSmoothl/DrSmoothl/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
